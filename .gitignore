@@ -1,0 +1,7 @@
+.project
+.settings
+config.codekit
+.idea
+
+
+/opt/mosquitto/log
